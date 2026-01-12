@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `<Yuhan Liu>`
+- **CCID:** `<1827316>`
 
 ## References and Resources
 
